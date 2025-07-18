@@ -1,0 +1,1 @@
+; Duplicate of NSIS script

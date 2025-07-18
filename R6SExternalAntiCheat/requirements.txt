@@ -1,0 +1,5 @@
+psutil
+pyautogui
+pillow
+requests
+pywin32
